@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-list {
+  width: 960px;
+  margin: 50px auto;
+  padding: 50px 0;
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.list1 {
+  border: solid;
+  padding: 20px;
+  border-color: rgb(196, 196, 196);
+  background-color: rgb(196, 196, 196);
+}
+
+.list2 {
+  border: solid;
+  padding: 20px;
+  border-color: white;
+  background-color: white;
+}
+
+.list3 {
+  border: solid;
+  padding: 20px;
+  border-color: rgb(196, 196, 196);
+  background-color: rgb(196, 196, 196);
+}
+
+.list4 {
+  border: solid;
+  padding: 20px;
+  border-color: white;
+  background-color: white;
+}
+
+.list5 {
+  border: solid;
+  padding: 20px;
+  border-color: rgb(196, 196, 196);
+  background-color: rgb(196, 196, 196);
+}
+
+.list6 {
+  border: solid;
+  padding: 20px;
+  border-color: white;
+  background-color: white;
+}
+
+.list7 {
+  border: solid;
+  padding: 20px;
+  border-color: rgb(196, 196, 196);
+  background-color: rgb(196, 196, 196);
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 0 0 0;
+}
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+  margin: 0px 5% 0px 0px;
+}
+
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 0px 5% 0px 0px;
+}
+
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box4 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 40px 5% 0px 0px;
+}
+
+.box5 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+  margin: 40px 5% 0px 0px;
+}
+
+.box6 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 40px 0 0 0;
+}
+
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 40px 5% 0px 0px;
+}
+
+.box8 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 40px 5% 0px 0px;
+}
+
+.box9 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+  margin: 40px 0 0px 0px;
+}
